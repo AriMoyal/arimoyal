@@ -4,11 +4,22 @@
 
  ## I am currently an ICT Specialist focusing on `Security`
 
--------------------------------------------------------------------------------
 
-I upload some of the scripts I use to `simplify` my daily tasks. Hopefully they will assist you with your *Admin work*
+#### I upload some of the scripts I use to `simplify` my daily tasks. Hopefully they will assist you with your *Admin work*
 
-Skills: CTF | `Power Shell` | `Active Directory` | `Kali` | `Ethical Hacking` | `Sys Admin'
+Skills: CTF | `Power Shell` | `Active Directory` | `Kali` | `Ethical Hacking` | `Sys Admin`
+ 
+#### `Technologies` I work With
+
+
+![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![kali linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![microsoft azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![powershell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)
+ 
+
+
 
 🔭 I’m currently working on a Security project 🌱 I’m currently learning `OSINT` 👯 I’m looking to collaborate on `CTF` Challenges or `OSINT`
 ------------------------------------------------------------------------------
