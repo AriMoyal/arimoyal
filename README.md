@@ -1,13 +1,13 @@
 
 ![I am currently an ICT Specialist focusing at the moment on Security ](https://user-images.githubusercontent.com/6078108/132122845-525108e2-0ecf-4591-9daa-2d829d0a5df5.png)
 
-#### I am currently an ICT Specialist focusing on *Security* 
+#### I am currently an ICT Specialist focusing on `Security` 
 
 -------------------------------------------------------------------------------
 
 I upload some of the scripts I use to `simplify` my daily tasks. Hopefully they will assist you with your *Admin work*
 
-Skills: CTF | Power Shell | Active Directory | Kali | Ethical Hacking | Sys Admin
+Skills: CTF | `Power Shell` | `Active Directory` | `Kali` | `Ethical Hacking` | `Sys Admin'
 
 - 🔭 I’m currently working on a Security project 
 - 🌱 I’m currently learning `OSINT` 
