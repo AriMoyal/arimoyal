@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi I am Ari and welcome to my GIT hub page 👋
 
-<!--
-**AriMoyal/arimoyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
