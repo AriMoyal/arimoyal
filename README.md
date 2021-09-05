@@ -13,8 +13,9 @@ Skills: CTF | `Power Shell` | `Active Directory` | `Kali` | `Ethical Hacking` | 
 🔭 I’m currently working on a Security project 🌱 I’m currently learning `OSINT` 👯 I’m looking to collaborate on `CTF` Challenges or `OSINT`
 ------------------------------------------------------------------------------
 
-[<img src='https://user-images.githubusercontent.com/6078108/132119235-1b7fcf0d-fd5d-447b-870b-05d5d8c7cb45.png' alt='htb'>](https://tryhackme.com/p/cry0g3nix)
-[<img src='https://user-images.githubusercontent.com/6078108/132129045-cbd8a7a4-32c2-4b80-9ad5-2800f6051fd9.png' alt='htb'>](https://app.hackthebox.eu/profile/62390)
+[<img src='https://user-images.githubusercontent.com/6078108/132119235-1b7fcf0d-fd5d-447b-870b-05d5d8c7cb45.png' alt='THM'>](https://tryhackme.com/p/cry0g3nix)
+[<img src='https://user-images.githubusercontent.com/6078108/132130720-e15a923c-80f4-4b3c-addf-f6b73c3c5474.png' alt='HTB'>](https://app.hackthebox.eu/profile/62390)
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt="linkedin" height='40'>](https://linkedin.com/arimoyal)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/arimoyal)
