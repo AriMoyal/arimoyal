@@ -3,7 +3,7 @@
 
 ### Hi I am Ari and welcome to my GIT hub page 👋
 
-![image]({https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white}) ![image]({https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white})
+![image]({https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white})
 
 
 Here are some ideas to get you started:
@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
         
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arimoyal)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arimoyal)](https://github.com/arimoyal/github-readme-stats)
 
 
