@@ -7,7 +7,7 @@
 
 #### I upload some of the scripts I use to `simplify` my daily tasks. Hopefully they will assist you with your *Admin work*
 
-Skills: CTF | `Power Shell` | `Active Directory` | `Kali` | `Ethical Hacking` | `Sys Admin`
+Skills: `CTF` | `Power Shell` | `Active Directory` | `Kali` | `Ethical Hacking` | `Sys Admin`
  
 #### `Technologies` I work With
 
