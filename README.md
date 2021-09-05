@@ -9,9 +9,9 @@ I upload some of the scripts I use to `simplify` my daily tasks. Hopefully they 
 
 Skills: CTF | `Power Shell` | `Active Directory` | `Kali` | `Ethical Hacking` | `Sys Admin'
 
-- 🔭 I’m currently working on a Security project 
-- 🌱 I’m currently learning `OSINT` 
-- 👯 I’m looking to collaborate on `CTF` Challenges or `OSINT`
+🔭 I’m currently working on a Security project 
+🌱 I’m currently learning `OSINT` 
+👯 I’m looking to collaborate on `CTF` Challenges or `OSINT`
 ------------------------------------------------------------------------------
 
 [<img src='https://user-images.githubusercontent.com/6078108/132119235-1b7fcf0d-fd5d-447b-870b-05d5d8c7cb45.png' alt='htb'>](https://tryhackme.com/p/cry0g3nix)
