@@ -17,8 +17,8 @@ Skills: CTF | Power Shell | Active Directory | Kali | Ethical Hacking | Sys Admi
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt="linkedin" height='40'>](https://linkedin.com/arimoyal)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/arimoyal)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/crashzero)
-![image](https://user-images.githubusercontent.com/6078108/132119235-1b7fcf0d-fd5d-447b-870b-05d5d8c7cb45.png)
-![62390](https://user-images.githubusercontent.com/6078108/132129045-cbd8a7a4-32c2-4b80-9ad5-2800f6051fd9.png)
+[<img src='https://user-images.githubusercontent.com/6078108/132119235-1b7fcf0d-fd5d-447b-870b-05d5d8c7cb45.png' alt='htb'>](https://tryhackme.com/p/cry0g3nix)
+[<img src='https://user-images.githubusercontent.com/6078108/132129045-cbd8a7a4-32c2-4b80-9ad5-2800f6051fd9.png' alt='htb'>](https://app.hackthebox.eu/profile/62390)
 
 
 
