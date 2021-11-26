@@ -24,7 +24,7 @@ Skills: `CTF` | `Power Shell` | `Active Directory` | `Kali` | `Ethical Hacking` 
  ### 🔭 I’m currently working on a Security project || 🌱 I’m currently learning `OSINT` || 👯 I’m looking to collaborate on `CTF` Challenges or `OSINT`
 ------------------------------------------------------------------------------
 
-[<img src="https://tryhackme-badges.s3.amazonaws.com/cry0g3nix.png' alt='THM'>](https://tryhackme.com/p/cry0g3nix)
+[<img src='https://user-images.githubusercontent.com/6078108/132119235-1b7fcf0d-fd5d-447b-870b-05d5d8c7cb45.png' alt='THM'>](https://tryhackme.com/p/cry0g3nix)
 [<img src='https://user-images.githubusercontent.com/6078108/132130720-e15a923c-80f4-4b3c-addf-f6b73c3c5474.png' alt='HTB'>](https://app.hackthebox.eu/profile/62390)
 
 
