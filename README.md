@@ -1,44 +1,27 @@
+# Hi, I'm Ari
 
-![I am currently a Technology Enabler focusing at the moment on Security ](https://user-images.githubusercontent.com/6078108/132122845-525108e2-0ecf-4591-9daa-2d829d0a5df5.png)
-<div align="center"> 
+Security automation engineer focused on blue-team tooling, incident response workflows, log analysis, and practical sysadmin automation.
 
- ## I am currently a Technology Enabler focusing on `Security`
+I build tools that help security and infrastructure teams:
+- detect suspicious activity faster
+- automate repetitive analyst work
+- enrich alerts with useful context
+- turn messy logs into readable reports
+- simplify Windows, Linux, AD, and endpoint administration
 
+## Current focus
+- Security automation with n8n, Python, PowerShell, Wazuh, Velociraptor and Cloudflare logs
+- Vulnerability intelligence and patch-status tracking
+- OSINT workflows and vendor risk automation
+- Building small security tools that solve real operational problems
 
-### I upload some of the scripts I use to `simplify` my daily tasks. Hopefully they will assist you with your *Admin work*
+## Featured projects
+- RiskBeacon: vulnerability intelligence and patch-status dashboard
+- Cloudflare Log Sentinel: log parser and alerting pipeline
+- FortiEMS Inventory Mapper: endpoint software/user/device reporting
+- Vendor Risk Radar: SOC 2 and breach-exposure workflow
+- AD Admin Toolkit: modern PowerShell scripts for Windows/Exchange/AD
+- DFIR Mini Lab: EVTX, Sigma, Chainsaw and Velociraptor examples
 
-Skills: `CTF` | `Power Shell` | `Active Directory` | `Kali` | `Ethical Hacking` | `Sys Admin`
- 
-## `Technologies` I work With
-
-
-![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![kali linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![microsoft azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![powershell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)
- 
-
-
-
- ### 🔭 I’m currently working on a Security project || 🌱 I’m currently learning `OSINT` || 👯 I’m looking to collaborate on `CTF` Challenges or `OSINT`
-------------------------------------------------------------------------------
-
-[<img src='https://user-images.githubusercontent.com/6078108/132119235-1b7fcf0d-fd5d-447b-870b-05d5d8c7cb45.png' alt='THM'>](https://tryhackme.com/p/cry0g3nix)
-[<img src='https://user-images.githubusercontent.com/6078108/132130720-e15a923c-80f4-4b3c-addf-f6b73c3c5474.png' alt='HTB'>](https://app.hackthebox.eu/profile/62390)
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt="linkedin" height='40'>](https://linkedin.com/arimoyal)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/arimoyal)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/crashzero)
-
-![Metrics](https://metrics.lecoq.io/arimoyal?template=terminal&base.header=0&base.repositories=0&base.metadata=0&tweets=1&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&tweets.attachments=true&tweets.limit=2&tweets.user=arimoyal&config.timezone=Africa%2FJohannesburg)</div>
-
-
-
-
-
-
-
-
-
+## Tech I use
+PowerShell · Python · Bash · JavaScript · n8n · Wazuh · Velociraptor · Cloudflare · Linux · Windows Server · Active Directory · Docker
