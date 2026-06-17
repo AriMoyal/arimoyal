@@ -1,88 +1,189 @@
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:1e3a8a,100:22c55e&text=Ari%20Moyal&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Security%20Automation%20%7C%20Blue%20Team%20%7C%20Systems%20Visibility&descAlignY=58&descSize=18" alt="Ari Moyal banner" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&center=true&vCenter=true&width=850&lines=I+build+security+automation+that+helps+teams+move+faster.;I+turn+logs%2C+alerts%2C+and+risk+data+into+clear+actions.;n8n+%7C+Cloudflare+%7C+Wazuh+%7C+FortiEMS+%7C+Python" alt="Typing animation" /><br /><br />
+<div align="center">
 
-<img src="https://img.shields.io/badge/Security-Automation-020617?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Security Automation" />
-<img src="https://img.shields.io/badge/Blue%20Team-Operations-1e3a8a?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Blue Team" />
-<img src="https://img.shields.io/badge/n8n-Workflows-ea4b71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-<img src="https://img.shields.io/badge/Cloudflare-Logs-f38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" /></div>---
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,30:0f172a,65:0369a1,100:38bdf8&text=Ari%20Moyal&fontColor=ffffff&fontSize=60&fontAlignY=36&desc=Security%20Automation%20%7C%20Blue-Team%20Operations%20%7C%20Systems%20Administration&descSize=17&descAlignY=58&animation=fadeIn" />
 
-About Me
+<br/>
 
-I build security automation that helps teams work faster and see risk more clearly.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=I+build+security+automation;I+help+reduce+alert+noise;I+turn+logs+and+alerts+into+clear+actions;Security+%2B+Systems+%2B+Automation" alt="Typing animation" />
 
-I focus on blue-team operations, log analysis, alert enrichment, endpoint visibility, and reporting. My goal is simple: take noisy security data and turn it into clear actions.
+<br/><br/>
 
-Collect → Clean → Enrich → Score → Report → Automate
+<img src="https://img.shields.io/badge/Security%20Automation-0369A1?style=for-the-badge&labelColor=020617&logo=securityscorecard&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Blue%20Team-0369A1?style=for-the-badge&labelColor=020617&logo=target&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Systems%20Admin-0369A1?style=for-the-badge&labelColor=020617&logo=linux&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Workflow%20Automation-0369A1?style=for-the-badge&labelColor=020617&logo=n8n&logoColor=ffffff" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=AriMoyal&style=for-the-badge&color=38bdf8&label=Profile%20Views" />
+<img src="https://img.shields.io/github/followers/AriMoyal?style=for-the-badge&logo=github&color=0369A1&labelColor=020617" />
+<img src="https://img.shields.io/github/stars/AriMoyal?style=for-the-badge&logo=github&color=0369A1&labelColor=020617" />
+
+</div>
 
 ---
 
-What I Work On
+<div align="center">
+
+## Security automation for real-world teams
+
+I build tools and workflows that help teams understand alerts, logs, systems, and risks faster.
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Security%20Data-0F172A?style=for-the-badge&labelColor=020617&color=38BDF8" />
+<img src="https://img.shields.io/badge/Useful%20Context-0F172A?style=for-the-badge&labelColor=020617&color=0EA5E9" />
+<img src="https://img.shields.io/badge/Automation-0F172A?style=for-the-badge&labelColor=020617&color=0284C7" />
+<img src="https://img.shields.io/badge/Better%20Decisions-0F172A?style=for-the-badge&labelColor=020617&color=0369A1" />
+
+</div>
+
+---
+
+## What I do
 
 <table>
-<tr>
-<td width="50%" valign="top">Security Automation
-
-- Alert enrichment
-- IOC and IP reputation checks
-- Vulnerability and patch visibility
-- Cloudflare log analysis
-- FortiEMS endpoint workflows
-- Slack and email notifications
-
-</td>
-<td width="50%" valign="top">Systems & Reporting
-
-- n8n workflow automation
-- Windows and Linux operations
-- API-based reporting
-- CSV and JSON evidence exports
-- AI-assisted analyst summaries
-- Security dashboards
-
-</td>
-</tr>
-</table>---
-
-Featured Projects
-
-Project| What it does
-RiskBeacon| Security dashboard for vulnerabilities, IOCs, reputation checks, and patch status
-Cloudflare Log Intelligence| Reviews Cloudflare logs, scores suspicious traffic, and sends alerts
-Vendor Security Automation| Helps review vendors, exposure checks, and SOC 2 evidence
-AI Agent Governance| Tracks AI agents, owners, models, purpose, and data classification
+  <tr>
+    <td>
+      <h3>Security Automation</h3>
+      I build workflows that reduce manual work and help teams respond faster.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Blue-Team Support</h3>
+      I work with alerts, logs, IOCs, incident response, and security reporting.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Systems Administration</h3>
+      I work with Windows Server, Linux, Active Directory, Docker, nginx, and Cloudflare.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Visibility and Reporting</h3>
+      I help teams see users, devices, assets, vulnerabilities, and risks more clearly.
+    </td>
+  </tr>
+</table>
 
 ---
 
-Tech Stack
+## How I work
 
-<div align="center"><img src="https://skillicons.dev/icons?i=python,powershell,bash,linux,windows,docker,nginx,cloudflare,github,git,vscode,html,css,js,nodejs" alt="Tech stack icons" /></div><br />Area| Tools
-Automation| n8n, Python, PowerShell, Bash, REST APIs
-Security| Wazuh, FortiGate, FortiEMS, Cloudflare, OSINT
-Systems| Windows Server, Linux, Docker, nginx, AD, DNS, VMware
-Reporting| Dashboards, analyst summaries, CSV/JSON exports
-AI Workflow| Ollama, local models, prompt testing, human review
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/01%20Collect-38BDF8?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/02%20Clean-0EA5E9?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/03%20Add%20Context-0284C7?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/04%20Prioritize-0369A1?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/05%20Act-075985?style=for-the-badge&labelColor=020617" />
 
-GitHub Activity
+</div>
 
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=AriMoyal&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" /><img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=AriMoyal&theme=github-dark-blue&hide_border=true" alt="GitHub streak" /><br /><br />
-
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=AriMoyal&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" /></div>---
-
-How I Work
-
-I like tools that make investigations easier, not tools that create more noise.
-
-Good automation should collect the data, add context, show the risk, and help people decide what to do next. AI can help with summaries and review, but people should still own the final decision.
+```text
+Collect data → Clean it → Add context → Find what matters → Report or respond
+```
 
 ---
 
-Contact
+## Tech stack
 
-<div align="center"><a href="https://github.com/AriMoyal">
-  <img src="https://img.shields.io/badge/GitHub-AriMoyal-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a><a href="#what-i-work-on">
-  <img src="https://img.shields.io/badge/Focus-Security%20Automation-020617?style=for-the-badge&logo=target&logoColor=white" alt="Focus" />
-</a><a href="#about-me">
-  <img src="https://img.shields.io/badge/Blue%20Team-Operations-1e3a8a?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Blue Team" />
-</a></div><br /><div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:22c55e,50:1e3a8a,100:020617" alt="Footer wave" /></div>
+<div align="center">
+
+### Automation
+
+<img src="https://skillicons.dev/icons?i=python,powershell,bash,js,nodejs,git,githubactions,docker&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/n8n-0369A1?style=for-the-badge&labelColor=020617&logo=n8n&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/API%20Work-0369A1?style=for-the-badge&labelColor=020617&logo=fastapi&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Workflow%20Builds-0369A1?style=for-the-badge&labelColor=020617&logo=githubactions&logoColor=ffffff" />
+
+<br/><br/>
+
+### Systems
+
+<img src="https://skillicons.dev/icons?i=linux,windows,nginx,cloudflare,azure,vscode&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Active%20Directory-0369A1?style=for-the-badge&labelColor=020617&logo=microsoft&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Windows%20Server-0369A1?style=for-the-badge&labelColor=020617&logo=windows&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Linux%20Admin-0369A1?style=for-the-badge&labelColor=020617&logo=linux&logoColor=ffffff" />
+
+<br/><br/>
+
+### Security
+
+<img src="https://img.shields.io/badge/Wazuh-0369A1?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/Velociraptor-0369A1?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/Sigma-0369A1?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/Chainsaw-0369A1?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/OSINT-0369A1?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/Threat%20Intel-0369A1?style=for-the-badge&labelColor=020617" />
+
+</div>
+
+---
+
+## Strengths
+
+```text
+[+] Security automation
+[+] Log review and alert enrichment
+[+] Endpoint and asset visibility
+[+] User and device mapping
+[+] Vulnerability and patch review
+[+] OSINT and exposure checks
+[+] Windows and Linux administration
+[+] PowerShell, Python, Bash, n8n, and APIs
+[+] Clear technical reporting
+```
+
+---
+
+## Areas I enjoy
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Security%20Automation-0369A1?style=for-the-badge&labelColor=020617&logo=opsgenie&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Detection-0369A1?style=for-the-badge&labelColor=020617&logo=target&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Incident%20Response-0369A1?style=for-the-badge&labelColor=020617&logo=hackthebox&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Log%20Analysis-0369A1?style=for-the-badge&labelColor=020617&logo=elastic&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Endpoint%20Visibility-0369A1?style=for-the-badge&labelColor=020617&logo=windows&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/OSINT-0369A1?style=for-the-badge&labelColor=020617&logo=searchengineland&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Systems%20Admin-0369A1?style=for-the-badge&labelColor=020617&logo=linux&logoColor=ffffff" />
+
+</div>
+
+---
+
+## GitHub activity
+
+<div align="center">
+
+<img width="430" src="https://github-readme-stats.vercel.app/api?username=AriMoyal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8&text_color=E5E7EB" />
+
+</div>
+
+---
+
+## Philosophy
+
+> Good security tools should make things clearer.
+
+I like tools that are simple, useful, and help people take action. A dashboard is only useful if it helps someone make a decision.
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,35:0f172a,70:0369a1,100:38bdf8" />
+
+</div>
