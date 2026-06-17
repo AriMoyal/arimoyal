@@ -1,43 +1,58 @@
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:020617,50:0f172a,100:0ea5e9&text=Ari%20Moyal&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=Security%20Automation%20Engineer%20%7C%20Blue-Team%20Operations%20%7C%20Systems%20Administration&descSize=16&descAlignY=58&animation=fadeIn" /><br/><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+practical+security+automation;Reducing+noise+and+adding+context;Blue-team+workflows+for+real-world+operations" alt="Typing animation" /><br/><br/>
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,35:0f172a,70:0369a1,100:38bdf8&text=Ari%20Moyal&fontColor=ffffff&fontSize=58&fontAlignY=35&desc=Security%20Automation%20%7C%20Blue-Team%20Operations%20%7C%20Systems%20Administration&descSize=16&descAlignY=57&animation=fadeIn" /><br/><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=I+build+security+automation;I+help+reduce+alert+noise;I+turn+logs+and+alerts+into+clear+actions;Security+%2B+Systems+%2B+Automation" alt="Typing animation" /><br/><br/>
 
 <img src="https://img.shields.io/badge/Security%20Automation-020617?style=for-the-badge&logo=securityscorecard&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/Blue%20Team-020617?style=for-the-badge&logo=target&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Systems%20Administration-020617?style=for-the-badge&logo=linux&logoColor=38BDF8" /></div>---
+<img src="https://img.shields.io/badge/Systems%20Admin-020617?style=for-the-badge&logo=linux&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Workflow%20Automation-020617?style=for-the-badge&logo=n8n&logoColor=38BDF8" /><br/><br/>
 
-About
+<img src="https://komarev.com/ghpvc/?username=AriMoyal&style=for-the-badge&color=0ea5e9&label=Profile%20Views" />
+<img src="https://img.shields.io/github/followers/AriMoyal?style=for-the-badge&logo=github&color=0284c7&labelColor=020617" />
+<img src="https://img.shields.io/github/stars/AriMoyal?style=for-the-badge&logo=github&color=0369a1&labelColor=020617" /></div>---
 
-I build practical security and infrastructure automation for real-world operations.
+<div align="center">Security automation for real-world teams
 
-My focus is on helping teams reduce alert noise, improve visibility, enrich security events, and turn technical findings into clear action.
+I build tools and workflows that help teams understand alerts, logs, systems, and risks faster.
 
-Security signals + operational context + automation = better decisions
+</div>Security data + useful context + automation = better decisions
 
 ---
 
-Focus areas
+What I do
 
 <table>
   <tr>
-    <td><strong>Security Automation</strong></td>
-    <td>Repeatable workflows for alert triage, enrichment, reporting, and response.</td>
+    <td>
+      <h3>Security Automation</h3>
+      I build workflows that reduce manual work and help teams respond faster.
+    </td>
   </tr>
   <tr>
-    <td><strong>Blue-Team Operations</strong></td>
-    <td>Log analysis, IOC review, detection support, incident response, and analyst workflows.</td>
+    <td>
+      <h3>Blue-Team Support</h3>
+      I work with alerts, logs, IOCs, incident response, and security reporting.
+    </td>
   </tr>
   <tr>
-    <td><strong>Infrastructure</strong></td>
-    <td>Windows Server, Linux, Active Directory, Docker, nginx, and operational tooling.</td>
+    <td>
+      <h3>Systems Administration</h3>
+      I work with Windows Server, Linux, Active Directory, Docker, nginx, and Cloudflare.
+    </td>
   </tr>
   <tr>
-    <td><strong>Visibility</strong></td>
-    <td>Endpoint inventory, user-device mapping, vulnerability context, and asset reporting.</td>
+    <td>
+      <h3>Visibility and Reporting</h3>
+      I help teams see users, devices, assets, vulnerabilities, and risks more clearly.
+    </td>
   </tr>
 </table>---
 
-Workflow
+How I work
 
-Collect → Parse → Enrich → Prioritize → Summarize → Alert / Report / Respond
+<div align="center"><img src="https://img.shields.io/badge/01%20Collect-020617?style=for-the-badge&labelColor=020617&color=38BDF8" />
+<img src="https://img.shields.io/badge/02%20Clean-020617?style=for-the-badge&labelColor=020617&color=0EA5E9" />
+<img src="https://img.shields.io/badge/03%20Add%20Context-020617?style=for-the-badge&labelColor=020617&color=0284C7" />
+<img src="https://img.shields.io/badge/04%20Prioritize-020617?style=for-the-badge&labelColor=020617&color=0369A1" />
+<img src="https://img.shields.io/badge/05%20Act-020617?style=for-the-badge&labelColor=020617&color=075985" /></div>Collect data → Clean it → Add context → Find what matters → Report or respond
 
 ---
 
@@ -45,20 +60,19 @@ Tech stack
 
 <div align="center">Automation
 
-<img src="https://img.shields.io/badge/PowerShell-020617?style=for-the-badge&logo=powershell&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=FACC15" />
-<img src="https://img.shields.io/badge/Bash-020617?style=for-the-badge&logo=gnubash&logoColor=22C55E" />
+<img src="https://skillicons.dev/icons?i=python,powershell,bash,js,nodejs,git,githubactions,docker&theme=dark" /><br/><br/>
+
 <img src="https://img.shields.io/badge/n8n-020617?style=for-the-badge&logo=n8n&logoColor=EA4B71" />
-<img src="https://img.shields.io/badge/API%20Integrations-020617?style=for-the-badge&logo=fastapi&logoColor=38BDF8" /><br/><br/>
+<img src="https://img.shields.io/badge/API%20Work-020617?style=for-the-badge&logo=fastapi&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Workflow%20Builds-020617?style=for-the-badge&logo=githubactions&logoColor=38BDF8" /><br/><br/>
 
-Infrastructure
+Systems
 
-<img src="https://img.shields.io/badge/Linux-020617?style=for-the-badge&logo=linux&logoColor=FACC15" />
-<img src="https://img.shields.io/badge/Windows%20Server-020617?style=for-the-badge&logo=windows&logoColor=38BDF8" />
+<img src="https://skillicons.dev/icons?i=linux,windows,nginx,cloudflare,azure,vscode&theme=dark" /><br/><br/>
+
 <img src="https://img.shields.io/badge/Active%20Directory-020617?style=for-the-badge&logo=microsoft&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/nginx-020617?style=for-the-badge&logo=nginx&logoColor=22C55E" />
-<img src="https://img.shields.io/badge/Cloudflare-020617?style=for-the-badge&logo=cloudflare&logoColor=F97316" /><br/><br/>
+<img src="https://img.shields.io/badge/Windows%20Server-020617?style=for-the-badge&logo=windows&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Linux%20Admin-020617?style=for-the-badge&logo=linux&logoColor=FACC15" /><br/><br/>
 
 Security
 
@@ -66,30 +80,43 @@ Security
 <img src="https://img.shields.io/badge/Velociraptor-020617?style=for-the-badge&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/Sigma-020617?style=for-the-badge&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/Chainsaw-020617?style=for-the-badge&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/OSINT-020617?style=for-the-badge&logoColor=38BDF8" /></div>---
+<img src="https://img.shields.io/badge/OSINT-020617?style=for-the-badge&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Threat%20Intel-020617?style=for-the-badge&logoColor=38BDF8" /></div>---
 
 Strengths
 
-[+] Security automation and analyst workflow design
-[+] Log parsing, alert enrichment, and risk prioritization
-[+] Endpoint visibility and user-device mapping
-[+] Vulnerability context and patch-status review
-[+] OSINT and external exposure investigation
-[+] Windows, Linux, Active Directory, Docker, and nginx
-[+] PowerShell, Python, Bash, n8n, and API integrations
+[+] Security automation
+[+] Log review and alert enrichment
+[+] Endpoint and asset visibility
+[+] User and device mapping
+[+] Vulnerability and patch review
+[+] OSINT and exposure checks
+[+] Windows and Linux administration
+[+] PowerShell, Python, Bash, n8n, and APIs
+[+] Clear technical reporting
 
 ---
+
+Areas I enjoy
+
+<div align="center"><img src="https://img.shields.io/badge/Security%20Automation-020617?style=for-the-badge&logo=opsgenie&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Detection-020617?style=for-the-badge&logo=target&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Incident%20Response-020617?style=for-the-badge&logo=hackthebox&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Log%20Analysis-020617?style=for-the-badge&logo=elastic&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Endpoint%20Visibility-020617?style=for-the-badge&logo=windows&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/OSINT-020617?style=for-the-badge&logo=searchengineland&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Systems%20Admin-020617?style=for-the-badge&logo=linux&logoColor=38BDF8" /></div>---
 
 GitHub activity
 
-<div align="center"><img width="420" src="https://github-readme-stats.vercel.app/api?username=AriMoyal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8&text_color=E5E7EB" /></div>---
+<div align="center"><img width="430" src="https://github-readme-stats.vercel.app/api?username=AriMoyal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8&text_color=E5E7EB" /></div>---
 
 Philosophy
 
-«Useful security tooling should reduce confusion, not decorate it.»
+«Good security tools should make things clearer.»
 
-I prefer simple, practical automation that helps teams understand risk faster and take action with better context.
+I like tools that are simple, useful, and help people take action. A dashboard is only useful if it helps someone make a decision.
 
 ---
 
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0ea5e9,50:0f172a,100:020617" /></div>
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:38bdf8,45:0f172a,100:020617" /></div>
