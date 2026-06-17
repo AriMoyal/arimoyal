@@ -1,385 +1,142 @@
-<div align="center">
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0f172a,100:0ea5e9&text=Ari%20Moyal&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Security%20Automation%20Engineer%20%7C%20Blue-Team%20Operations%20%7C%20Systems%20Administration&descSize=17&descAlignY=58&animation=fadeIn" /><br/><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Security+Automation+Engineer;Blue-Team+Workflow+Builder;Systems+Administrator+with+a+Security-First+Mindset;Turning+Noise+into+Useful+Action" alt="Typing animation" /><br/><br/>
 
-# 🎮 ARI MOYAL
+<img src="https://img.shields.io/badge/Security%20Automation-0F172A?style=for-the-badge&logo=securityscorecard&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Blue%20Team-0F172A?style=for-the-badge&logo=target&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Systems%20Administration-0F172A?style=for-the-badge&logo=linux&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Workflow%20Automation-0F172A?style=for-the-badge&logo=n8n&logoColor=38BDF8" /><br/><br/>
 
-## SECURITY OPS INTERFACE
+<a href="https://github.com/AriMoyal">
+  <img src="https://komarev.com/ghpvc/?username=AriMoyal&style=for-the-badge&color=0ea5e9&label=Profile%20Views" />
+</a>
+<a href="https://github.com/AriMoyal?tab=followers">
+  <img src="https://img.shields.io/github/followers/AriMoyal?style=for-the-badge&logo=github&color=0284c7&labelColor=020617" />
+</a>
+<a href="https://github.com/AriMoyal?tab=repositories">
+  <img src="https://img.shields.io/github/stars/AriMoyal?style=for-the-badge&logo=github&color=0369a1&labelColor=020617" />
+</a></div>---
 
-<img src="https://img.shields.io/badge/PLAYER-ARI%20MOYAL-38BDF8?style=for-the-badge&labelColor=020617" />
-<img src="https://img.shields.io/badge/CLASS-BLUE%20TEAM%20ENGINEER-2563EB?style=for-the-badge&labelColor=020617" />
-<img src="https://img.shields.io/badge/SPECIAL-Security%20Automation-0891B2?style=for-the-badge&labelColor=020617" />
+About
 
-<br/><br/>
+I build practical security and infrastructure automation for real-world operations.
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-22C55E?style=for-the-badge&labelColor=020617" />
-<img src="https://img.shields.io/badge/MISSION-Reduce%20Noise%20%7C%20Add%20Context%20%7C%20Trigger%20Action-FACC15?style=for-the-badge&labelColor=020617" />
+My work focuses on helping teams reduce alert noise, improve visibility, enrich security events, and turn technical findings into clear actions.
 
-</div>
+I work across security operations, systems administration, endpoint visibility, log analysis, vulnerability context, and analyst workflow automation.
 
----
-
-```text
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                         SECURITY AUTOMATION TERMINAL                        ║
-║                                                                              ║
-║  Operator : Ari Moyal                                                        ║
-║  Role     : Security Automation Engineer                                     ║
-║  Faction  : Blue Team                                                        ║
-║  Build    : Sysadmin + Security + Automation                                 ║
-║                                                                              ║
-║  Objective: Turn noisy alerts, logs, endpoints, and risk signals              ║
-║             into clear action for analysts and infrastructure teams.          ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+Security signals + operational context + automation = better decisions
 
 ---
 
-<div align="center">
-
-## 🕹️ PLAYER HUD
+What I focus on
 
 <table>
   <tr>
-    <td align="center" width="25%">
-      <h3>🛡️ DEFENSE</h3>
-      <img src="https://img.shields.io/badge/Blue%20Team-80%25-38BDF8?style=for-the-badge&labelColor=020617" />
-      <br/>
-      Detection · Triage · Response
-    </td>
-    <td align="center" width="25%">
-      <h3>⚡ ENERGY</h3>
-      <img src="https://img.shields.io/badge/Automation-90%25-FACC15?style=for-the-badge&labelColor=020617" />
-      <br/>
-      n8n · Python · PowerShell
-    </td>
-    <td align="center" width="25%">
-      <h3>🧠 INTEL</h3>
-      <img src="https://img.shields.io/badge/Context-85%25-A855F7?style=for-the-badge&labelColor=020617" />
-      <br/>
-      OSINT · IOC · Vulnerability Data
-    </td>
-    <td align="center" width="25%">
-      <h3>🖥️ SYSTEMS</h3>
-      <img src="https://img.shields.io/badge/Infrastructure-90%25-22C55E?style=for-the-badge&labelColor=020617" />
-      <br/>
-      Linux · Windows · AD · Docker
+    <td>
+      <strong>Security Automation</strong><br/>
+      Building repeatable workflows that reduce manual analyst effort and improve response speed.
     </td>
   </tr>
-</table>
-
-</div>
-
----
-
-## 🧭 MAIN QUEST
-
-```text
-┌─[ ACTIVE MISSION ]──────────────────────────────────────────────────────────┐
-│                                                                            │
-│  Build practical security automation that helps teams:                      │
-│                                                                            │
-│  [01] Detect suspicious activity faster                                     │
-│  [02] Enrich alerts with useful context                                     │
-│  [03] Reduce repetitive analyst work                                        │
-│  [04] Turn technical findings into readable reports                         │
-│  [05] Improve endpoint, user, asset, and vulnerability visibility            │
-│                                                                            │
-└────────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-<div align="center">
-
-## 🗺️ GAME MAP
-
-<table>
   <tr>
-    <td align="center" width="20%">
-      <h3>ZONE 01</h3>
-      <img src="https://img.shields.io/badge/LOGS-020617?style=for-the-badge&color=38BDF8" />
-      <br/>
-      Raw events, web traffic, endpoint noise
-    </td>
-    <td align="center" width="20%">
-      <h3>ZONE 02</h3>
-      <img src="https://img.shields.io/badge/PARSE-020617?style=for-the-badge&color=2563EB" />
-      <br/>
-      Normalize fields and extract useful signals
-    </td>
-    <td align="center" width="20%">
-      <h3>ZONE 03</h3>
-      <img src="https://img.shields.io/badge/ENRICH-020617?style=for-the-badge&color=A855F7" />
-      <br/>
-      Add users, assets, IP reputation, threat intel
-    </td>
-    <td align="center" width="20%">
-      <h3>ZONE 04</h3>
-      <img src="https://img.shields.io/badge/SCORE-020617?style=for-the-badge&color=FACC15" />
-      <br/>
-      Prioritize risk and remove junk noise
-    </td>
-    <td align="center" width="20%">
-      <h3>ZONE 05</h3>
-      <img src="https://img.shields.io/badge/ACTION-020617?style=for-the-badge&color=22C55E" />
-      <br/>
-      Alerts, reports, tickets, response paths
+    <td>
+      <strong>Blue-Team Operations</strong><br/>
+      Alert triage, IOC review, log analysis, enrichment, incident response support, and reporting.
     </td>
   </tr>
-</table>
+  <tr>
+    <td>
+      <strong>Systems Administration</strong><br/>
+      Windows Server, Linux, Active Directory, nginx, Docker, infrastructure support, and operational tooling.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Visibility and Reporting</strong><br/>
+      Endpoint inventory, user-device mapping, vulnerability context, asset visibility, and analyst summaries.
+    </td>
+  </tr>
+</table>---
 
-</div>
+Core workflow
+
+Collect signals
+      ↓
+Parse and normalize
+      ↓
+Enrich with context
+      ↓
+Prioritize risk
+      ↓
+Generate summary
+      ↓
+Alert, report, or respond
 
 ---
 
-## ⚔️ LOADOUT
+Technical stack
 
-<div align="center">
-
-### Primary Weapons
+<div align="center">Automation and scripting
 
 <img src="https://img.shields.io/badge/PowerShell-020617?style=for-the-badge&logo=powershell&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=FACC15" />
 <img src="https://img.shields.io/badge/Bash-020617?style=for-the-badge&logo=gnubash&logoColor=22C55E" />
 <img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=FACC15" />
 <img src="https://img.shields.io/badge/n8n-020617?style=for-the-badge&logo=n8n&logoColor=EA4B71" />
+<img src="https://img.shields.io/badge/API%20Integration-020617?style=for-the-badge&logo=fastapi&logoColor=38BDF8" /><br/><br/>
 
-<br/><br/>
-
-### Defensive Gear
-
-<img src="https://img.shields.io/badge/Wazuh-020617?style=for-the-badge&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Velociraptor-020617?style=for-the-badge&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Sigma-020617?style=for-the-badge&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Chainsaw-020617?style=for-the-badge&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/OSINT-020617?style=for-the-badge&logoColor=38BDF8" />
-
-<br/><br/>
-
-### Infrastructure Kit
+Infrastructure
 
 <img src="https://img.shields.io/badge/Linux-020617?style=for-the-badge&logo=linux&logoColor=FACC15" />
 <img src="https://img.shields.io/badge/Windows%20Server-020617?style=for-the-badge&logo=windows&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/Active%20Directory-020617?style=for-the-badge&logo=microsoft&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/nginx-020617?style=for-the-badge&logo=nginx&logoColor=22C55E" />
-<img src="https://img.shields.io/badge/Cloudflare-020617?style=for-the-badge&logo=cloudflare&logoColor=F97316" />
+<img src="https://img.shields.io/badge/Cloudflare-020617?style=for-the-badge&logo=cloudflare&logoColor=F97316" /><br/><br/>
 
-</div>
+Security operations
 
----
+<img src="https://img.shields.io/badge/Wazuh-020617?style=for-the-badge&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Velociraptor-020617?style=for-the-badge&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Sigma-020617?style=for-the-badge&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Chainsaw-020617?style=for-the-badge&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/OSINT-020617?style=for-the-badge&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Threat%20Intel-020617?style=for-the-badge&logoColor=38BDF8" /></div>---
 
-## 🧬 SKILL TREE
+Practical strengths
 
-```text
-SECURITY AUTOMATION
-│
-├── BLUE TEAM OPERATIONS
-│   ├── Alert triage
-│   ├── IOC review
-│   ├── Log analysis
-│   ├── Incident response
-│   └── Detection support
-│
-├── INFRASTRUCTURE
-│   ├── Windows Server
-│   ├── Linux administration
-│   ├── Active Directory
-│   ├── DNS / DHCP
-│   ├── IIS / nginx
-│   └── Docker
-│
-├── AUTOMATION
-│   ├── PowerShell scripting
-│   ├── Python tooling
-│   ├── Bash scripting
-│   ├── API integration
-│   └── n8n workflows
-│
-└── VISIBILITY
-    ├── Endpoint inventory
-    ├── User-device mapping
-    ├── Vulnerability context
-    ├── Asset reporting
-    └── Analyst summaries
-```
+[+] Security automation and analyst workflow design
+[+] Log parsing, enrichment, and alert prioritization
+[+] Endpoint inventory and user-device mapping
+[+] Vulnerability context and patch-status tracking
+[+] OSINT and external exposure review
+[+] PowerShell, Python, Bash, and API integrations
+[+] Windows Server, Linux, Active Directory, Docker, and nginx
+[+] Incident response support and readable technical reporting
 
 ---
 
-<div align="center">
+Operating philosophy
 
-## 🎯 COMBAT LOOP
+«Useful security tooling should reduce confusion, not decorate it.»
 
-<table>
-  <tr>
-    <td align="center" width="16%">
-      <h3>01</h3>
-      <img src="https://img.shields.io/badge/COLLECT-020617?style=for-the-badge&color=38BDF8" />
-      <br/>
-      Logs and events
-    </td>
-    <td align="center" width="16%">
-      <h3>02</h3>
-      <img src="https://img.shields.io/badge/CLEAN-020617?style=for-the-badge&color=2563EB" />
-      <br/>
-      Normalize data
-    </td>
-    <td align="center" width="16%">
-      <h3>03</h3>
-      <img src="https://img.shields.io/badge/ENRICH-020617?style=for-the-badge&color=A855F7" />
-      <br/>
-      Add context
-    </td>
-    <td align="center" width="16%">
-      <h3>04</h3>
-      <img src="https://img.shields.io/badge/SCORE-020617?style=for-the-badge&color=FACC15" />
-      <br/>
-      Prioritize
-    </td>
-    <td align="center" width="16%">
-      <h3>05</h3>
-      <img src="https://img.shields.io/badge/REPORT-020617?style=for-the-badge&color=22C55E" />
-      <br/>
-      Summarize
-    </td>
-    <td align="center" width="16%">
-      <h3>06</h3>
-      <img src="https://img.shields.io/badge/RESPOND-020617?style=for-the-badge&color=F97316" />
-      <br/>
-      Take action
-    </td>
-  </tr>
-</table>
-
-</div>
+I prefer practical automation that helps people make decisions faster. Dashboards are useful only when they lead to action. Otherwise they are just expensive wallpaper with login screens, because apparently we needed more of those.
 
 ---
 
-## 🧪 OPERATOR CONSOLE
+GitHub activity
 
-```bash
-ari@security-ops:~$ whoami
+<div align="center"><img width="420" src="https://github-readme-stats.vercel.app/api?username=AriMoyal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8&text_color=E5E7EB" /><br/><br/>
 
-Security automation engineer focused on blue-team tooling,
-incident response workflows, log analysis, endpoint visibility,
-and practical systems administration.
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriMoyal&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E5E7EB" /></div>---
 
-ari@security-ops:~$ mission --current
+Areas of interest
 
-Reduce alert noise.
-Enrich security events.
-Automate repeatable analyst work.
-Create readable reports.
-Help teams respond faster.
+<div align="center"><img src="https://img.shields.io/badge/Security%20Automation-020617?style=for-the-badge&logo=opsgenie&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Detection%20Engineering-020617?style=for-the-badge&logo=target&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Incident%20Response-020617?style=for-the-badge&logo=hackthebox&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Log%20Analysis-020617?style=for-the-badge&logo=elastic&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Endpoint%20Visibility-020617?style=for-the-badge&logo=windows&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Vulnerability%20Context-020617?style=for-the-badge&logo=securityscorecard&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/OSINT%20Workflows-020617?style=for-the-badge&logo=searchengineland&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Systems%20Administration-020617?style=for-the-badge&logo=linux&logoColor=38BDF8" /></div>---
 
-ari@security-ops:~$ stack --preferred
-
-PowerShell | Python | Bash | n8n | Wazuh | Velociraptor
-Cloudflare | Linux | Windows Server | Active Directory | Docker
-
-ari@security-ops:~$ motto
-
-Useful tooling beats pretty dashboards.
-Pretty dashboards with no action are just expensive screensavers.
-```
-
----
-
-<div align="center">
-
-## 🧩 SPECIAL ABILITIES
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>🔎 Signal Finder</h3>
-      Finds useful patterns inside noisy logs and events.
-    </td>
-    <td align="center" width="33%">
-      <h3>🧠 Context Engine</h3>
-      Adds users, assets, reputation, vulnerabilities, and threat intelligence.
-    </td>
-    <td align="center" width="33%">
-      <h3>🤖 Workflow Builder</h3>
-      Turns repetitive manual steps into repeatable automation.
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <h3>📊 Report Crafter</h3>
-      Converts technical findings into readable analyst summaries.
-    </td>
-    <td align="center" width="33%">
-      <h3>🛠️ Sysadmin Core</h3>
-      Brings Windows, Linux, AD, server, and infrastructure experience.
-    </td>
-    <td align="center" width="33%">
-      <h3>🚨 Response Support</h3>
-      Helps investigations move from alert to evidence to action.
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 🧱 THREAT RADAR
-
-```text
-┌───────────────────────────────┬─────────────┬──────────────────────────────┐
-│ AREA                          │ LEVEL       │ RESPONSE                     │
-├───────────────────────────────┼─────────────┼──────────────────────────────┤
-│ Alert noise                   │ CRITICAL    │ Automate triage              │
-│ Missing endpoint visibility   │ HIGH        │ Build inventory reporting     │
-│ Vulnerability overload        │ HIGH        │ Add patch and risk context    │
-│ Manual reporting              │ MEDIUM      │ Generate summaries            │
-│ Unknown external exposure     │ HIGH        │ Enrich with OSINT             │
-│ Dashboard theatre             │ EXTREME     │ Replace with action           │
-└───────────────────────────────┴─────────────┴──────────────────────────────┘
-```
-
----
-
-<div align="center">
-
-## 📟 SYSTEM STATUS
-
-<img src="https://img.shields.io/badge/Security%20Automation-ACTIVE-22C55E?style=for-the-badge&labelColor=020617" />
-<img src="https://img.shields.io/badge/Blue%20Team%20Ops-READY-38BDF8?style=for-the-badge&labelColor=020617" />
-<img src="https://img.shields.io/badge/Sysadmin%20Mode-ENABLED-FACC15?style=for-the-badge&labelColor=020617" />
-<img src="https://img.shields.io/badge/Noise%20Tolerance-LOW-EF4444?style=for-the-badge&labelColor=020617" />
-
-</div>
-
----
-
-## 🏁 FINAL OBJECTIVE
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <h3>Reduce noise. Add context. Make action clear.</h3>
-      <p>
-        I build security and infrastructure automation that helps teams move from messy data to useful decisions.
-      </p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                         END OF OPERATOR PROFILE                             ║
-║                                                                              ║
-║                  NEXT ACTION: BUILD · AUTOMATE · DEFEND                      ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
+<div align="center"><br/><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,45:0f172a,100:020617" /></div>
